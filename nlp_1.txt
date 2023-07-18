@@ -1,0 +1,3 @@
+A.Text classication - by predifined categorises, text classication has the ability to organise emails into the appropriate folder based on content. 
+B.Automated summarisation- due to the large volume of information to go through, automated summarisation will condense information to points that would be most useful to the professor. 
+C. Sentiment Analysis- sentiment analysis can gain an insight into how a person might feel from notes which would be beneficial to the doctors decision-making. 

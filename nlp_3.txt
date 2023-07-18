@@ -1,0 +1,3 @@
+I read about DreamFusion, developed by Google, that is able to create 3D images from text inputs. This was done by using the Imagen model, a text-to-image diffusion model mdoel, to synthesise images from text input. The system uses 2d images of the object, chosen by the user, chosen as a way of understanding it's different perspectives and from there creates a 3d likeness. 
+
+Reference- https://aibusiness.com/ml/google-s-dreamfusion-uses-ai-to-generate-3d-models-from-text
